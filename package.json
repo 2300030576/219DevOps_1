@@ -3,7 +3,7 @@
   "private": true,
   "version": "0.0.0",
   "type": "module",
-  "homepage": "https://githubelan77.github.io/S219_CICD",
+  "homepage": "https://github.com/2300030576/S219_CICD.git",
   "scripts": {
     "dev": "vite",
     "build": "vite build",
